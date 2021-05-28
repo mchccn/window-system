@@ -23,3 +23,5 @@ There are currently 4 options:
 - `title` – Title of the window (empty string to make it disappear).
 - `content` – The window's content as an HTML element.
 - `button` – Custom button element to toggle the window.
+
+A demo can be found [here (in JavaScript)](https://jsfiddle.net/cursorsdottsx/os1xbty8/).
